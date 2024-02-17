@@ -1,10 +1,10 @@
-## OpenInApp Assignment
+# OpenInApp Assignment
 
 step 1: First do `npm install` to install all the package.
 
 step 2: Then run `npm start` to start the server
 
-# Login Credentials
+## Login Credentials
 
-email: fai@openinapp.com
+email: fai@openinapp.com </br>
 password: 12345678
